@@ -16,8 +16,9 @@ Get started with ST4SD with some of our virtual experiments:
 - [configuration-generator-ani](https://github.com/st4sd/configuration-generator-ani)
 - [nanopore-geometry-experiment](https://github.com/st4sd/nanopore-geometry-experiment)
 - [nanopore-adsorption-experiment](https://github.com/st4sd/nanopore-adsorption-experiment)
+- [excitation-energy-gamess](https://github.com/st4sd/excitation-energy-gamess)
 
-Try our other toolkits for scientific discovery
+Try other IBM Toolkits for Scientific Discovery:
 - [Deep Search for Scientific Discovery](https://github.com/DS4SD)
 - [Generative Toolkit for Scientific Discovery](https://github.com/GT4SD)
 - [RXN](https://github.com/rxn4chemistry) 
