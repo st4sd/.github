@@ -2,7 +2,7 @@
 
 The Simulation Toolkit for Scientific Discovery (ST4SD) simplifies the development, execution, and dissemination of virtual experiments by providing powerful querying capabilities, robust and multi-environment execution support, AI acceleration capabilities, and a global showcase.
 
-The current release is 2.3.0. You can go to [our website](https://st4sd.github.io/overview/) to learn more.
+The current release is 2.4.0. You can go to [our website](https://st4sd.github.io/overview/) to learn more.
 
 The core repos of ST4SD are:
 - [st4sd-runtime-core](https://github.com/st4sd/st4sd-runtime-core)
